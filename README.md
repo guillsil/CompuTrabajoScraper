@@ -2,6 +2,9 @@
 ## CompuTrabajo Scraper
 
 This project is a web scraper designed to extract job offers from the CompuTrabajo website. It is built using Python and the Scrapy framework.
+This project is solely intended for learning purposes and to demonstrate the usage of the Scrapy framework. It provides a convenient way to extract job offers from the CompuTrabajo website and view them in a clear and accessible manner. The scraped data can be saved either in a CSV file or in a database table.
+
+Please note that this scraper should be used responsibly and in compliance with the terms of service of the CompuTrabajo website.
 
 ### Prerequisites
 
